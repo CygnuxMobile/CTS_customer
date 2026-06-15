@@ -1,0 +1,2 @@
+key alias = cts123
+password = cts123

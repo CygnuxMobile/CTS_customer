@@ -1,0 +1,257 @@
+{
+  "project_info": {
+    "project_number": "760146625785",
+    "project_id": "tms-app-b6baa",
+    "storage_bucket": "tms-app-b6baa.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:760146625785:android:c6f4c835f1abffa9a54e28",
+        "android_client_info": {
+          "package_name": "com.ctslogistics.customer"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDeF0t8iQXjXIaBL0AFar-Riyi-mCcsw-4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:760146625785:android:ee60b7665bb093c0a54e28",
+        "android_client_info": {
+          "package_name": "com.cygnux.harsh"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDeF0t8iQXjXIaBL0AFar-Riyi-mCcsw-4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:760146625785:android:0d97330300fbc207a54e28",
+        "android_client_info": {
+          "package_name": "com.cygnux.hrl"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDeF0t8iQXjXIaBL0AFar-Riyi-mCcsw-4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:760146625785:android:d8d19bcdc3ba5723a54e28",
+        "android_client_info": {
+          "package_name": "com.cygnux.scorpx"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDeF0t8iQXjXIaBL0AFar-Riyi-mCcsw-4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:760146625785:android:9aeb3e3ed16c101fa54e28",
+        "android_client_info": {
+          "package_name": "com.cygnux.tns"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDeF0t8iQXjXIaBL0AFar-Riyi-mCcsw-4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:760146625785:android:c8c8ef0a44eec50da54e28",
+        "android_client_info": {
+          "package_name": "com.example.bhor"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDeF0t8iQXjXIaBL0AFar-Riyi-mCcsw-4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:760146625785:android:258287636dddb7e0a54e28",
+        "android_client_info": {
+          "package_name": "com.example.cts"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDeF0t8iQXjXIaBL0AFar-Riyi-mCcsw-4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:760146625785:android:e8564ee91673ee72a54e28",
+        "android_client_info": {
+          "package_name": "com.example.dpw"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDeF0t8iQXjXIaBL0AFar-Riyi-mCcsw-4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:760146625785:android:78e2e87a8c52916ea54e28",
+        "android_client_info": {
+          "package_name": "com.example.harsh"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDeF0t8iQXjXIaBL0AFar-Riyi-mCcsw-4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:760146625785:android:d0e2000c5d8565f3a54e28",
+        "android_client_info": {
+          "package_name": "com.example.outshipper"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDeF0t8iQXjXIaBL0AFar-Riyi-mCcsw-4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:760146625785:android:0e12ce9f288ac225a54e28",
+        "android_client_info": {
+          "package_name": "com.example.relicom"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDeF0t8iQXjXIaBL0AFar-Riyi-mCcsw-4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:760146625785:android:52772d5ac65ec284a54e28",
+        "android_client_info": {
+          "package_name": "com.example.rgl"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDeF0t8iQXjXIaBL0AFar-Riyi-mCcsw-4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:760146625785:android:ffc71221b79e3159a54e28",
+        "android_client_info": {
+          "package_name": "com.example.tms_newui"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDeF0t8iQXjXIaBL0AFar-Riyi-mCcsw-4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
