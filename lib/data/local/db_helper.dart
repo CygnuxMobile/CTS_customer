@@ -102,6 +102,19 @@ class DbHelper {
     );
   }
 
+  Future<int> markAllAsRead() async {
+    final db = await database;
+    String now = DateTime.now().toIso8601String();
+    return await db.update(
+      'notifications',
+      {
+        'isRead': 1,
+        'readAt': now,
+      },
+      where: 'isRead = 0',
+    );
+  }
+
   Future<int> deleteNotification(int id) async {
     final db = await database;
     return await db.delete(

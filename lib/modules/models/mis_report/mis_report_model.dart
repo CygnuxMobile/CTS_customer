@@ -2,7 +2,6 @@
 //
 //     final misReportResponse = misReportResponseFromJson(jsonString);
 
-import 'package:meta/meta.dart';
 import 'dart:convert';
 
 MisReportResponse misReportResponseFromJson(String str) =>
@@ -78,6 +77,7 @@ class DocketList {
   final String consigneeName;
   final num noOfBoxes;
   final num actuwt;
+  final String edd;
   final String status;
   final String delivery;
 
@@ -90,21 +90,23 @@ class DocketList {
     required this.consigneeName,
     required this.noOfBoxes,
     required this.actuwt,
+    required this.edd,
     required this.status,
     required this.delivery,
   });
 
   factory DocketList.fromJson(Map<String, dynamic> json) => DocketList(
-    dockno: json["dockno"] ?? "",
-    docketDate: json["docket_Date"] ?? "",
-    fromCity: json["from_City"] ?? "",
-    toCity: json["to_City"] ?? "",
-    consignorName: json["consignor_Name"] ?? "",
-    consigneeName: json["consignee_Name"] ?? "",
+    dockno: json["dockno"]?.toString() ?? "",
+    docketDate: json["docket_Date"]?.toString() ?? "",
+    fromCity: json["from_City"]?.toString() ?? "",
+    toCity: json["to_City"]?.toString() ?? "",
+    consignorName: json["consignor_Name"]?.toString() ?? "",
+    consigneeName: json["consignee_Name"]?.toString() ?? "",
     noOfBoxes: json["no_Of_Boxes"] ?? 0,
     actuwt: json["actuwt"] ?? 0,
-    status: json["status"] ?? "",
-    delivery: json["delivery"] ?? ""
+    edd: json["edd"]?.toString() ?? "",
+    status: json["status"]?.toString() ?? "",
+    delivery: json["delivery"]?.toString() ?? "",
   );
 
   Map<String, dynamic> toJson() => {
@@ -116,6 +118,7 @@ class DocketList {
     "consignee_Name": consigneeName,
     "no_Of_Boxes": noOfBoxes,
     "actuwt": actuwt,
+    "edd": edd,
     "status": status,
     "delivery": delivery,
   };
